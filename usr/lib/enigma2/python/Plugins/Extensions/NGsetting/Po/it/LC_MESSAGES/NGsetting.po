@@ -10,8 +10,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.7\n"
 "Language: it\n"
-"X-Poedit-Basepath: ../../..\n"
-"X-Poedit-SearchPath-0: .\n"
 
 msgid " of "
 msgstr " del "
@@ -106,6 +104,7 @@ msgstr ""
 "Data: %s\n"
 "I nuovi setting hanno una data piu' recente\n"
 "Vuoi procedere con l'aggiornamento manuale?"
+
 
 msgid ""
 "To update your settings, you have to install Vhannibal AutoSetting %s\n"
